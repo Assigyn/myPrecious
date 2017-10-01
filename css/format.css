@@ -290,6 +290,18 @@ footer p.logo{
 
 .thumbnail{
   position: relative;
+  background-color: #000;
+}
+
+.portraitDescription{
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.portraitDescription a, a:hover{
+  text-decoration: none;
 }
 
 .overlay{
